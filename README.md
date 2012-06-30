@@ -1,6 +1,6 @@
 # URL Mixin for Wicked
 
-The URL mixin adds URL helpers to the `W::url_*` namespace. 
+The URL mixin for the [Wicked framework](http://github.com/benallfree/wicked.git) adds URL helpers to the `W::url_*` namespace. 
 
 ## Available Functions
 
